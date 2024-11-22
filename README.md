@@ -1,4 +1,4 @@
-# Livrable: Projet de Data Science
+# Livrable: Projet de prédiction de prêt de banque
 
 Ce projet contient un pipeline complet de traitement de données, d'entraînement de modèles, et d'évaluation pour résoudre un problème spécifique de machine learning.
 
